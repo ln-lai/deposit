@@ -1,0 +1,2 @@
+# 这个 MVP 默认走“零依赖”版本（见 README 里的 server.py）。
+# 如果你网络/证书环境允许 pip 安装，可使用 requirements-streamlit.txt 走 Streamlit 版本。
